@@ -42,4 +42,3 @@ Made with Love
 ## 🙏 Thanks to
 
 * [Genymobile/scrcpy](https://github.com/Genymobile/scrcpy) - for the amazing mirroring engine.
-* [israel-dryer/ttkbootstrap](https://github.com/israel-dryer/ttkbootstrap) - for the modern dark theme.
