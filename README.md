@@ -23,7 +23,7 @@ A modern, simple, intuitive, and standalone Windows GUI wrapper for **[Scrcpy](h
 
 ## 🚀 How to Use
 
-1.  **Download** the latest `scrcpy_GUI.exe` from the [Releases]((https://github.com/sickseiha/Scrcpy_GUI/releases)). If you have all dependencies you can use `scrcpy_GUI.py` instead.
+1.  **Download** the latest `scrcpy_GUI.exe` from the [Releases](https://github.com/sickseiha/Scrcpy_GUI/releases). If you have all dependencies you can use `scrcpy_GUI.py` instead.
 2.  Connect your Android device via USB (Make sure **USB Debugging** is enabled).
 3.  Launch the application.
 4.  Configure your desired settings (Bitrate, Resolution, etc.).
