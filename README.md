@@ -1,2 +1,41 @@
-# Scrcpy_GUI
-An simple intuitive Windows GUI wrapper for Scrcpy (powered by Python &amp; ttkbootstrap). Features include seamless USB/Wi-Fi connection management, real-time display resolution scaling, and integrated binary bundling for a true plug-and-play experience.
+# Scrcpy_GUI 📱💻
+
+A modern, simple, intuitive, and standalone Windows GUI wrapper for **Scrcpy**. This tool allows you to mirror and control your Android device with ease, featuring integrated ADB and Scrcpy binaries for a true plug-and-play experience.
+
+---
+
+## ✨ Key Features
+
+* **Standalone Executable:** No need to install Python, ADB or Scrcpy itself.
+* **Dual Connection Mode:** Supports both **USB** and **Wireless (Wi-Fi)** connections.
+* **Auto-Resolution Scaling:** Change your device's resolution and DPI on the fly for better performance.
+* **Integrated APK Installer:** Simply browse and install APKs directly from the GUI.
+* **Audio & Video Control:** Toggle video/audio mirroring, change bitrates, framerates, and codecs.
+* **Screen Recorder:** Record your screen sessions directly to `.mp4` or `.mkv`.
+* **App Shortcuts:** Quick launch installed third-party apps on your device.
+* **HID Support:** Enhanced Mouse, Keyboard and Gamepad controller control using HID protocols.
+
+---
+
+## 🚀 How to Use
+
+1.  **Download** the latest `scrcpy_GUI.exe` from the [Releases](#)
+2.  Connect your Android device via USB (Make sure **USB Debugging** is enabled).
+3.  Launch the application.
+4.  Configure your desired settings (Bitrate, Resolution, etc.).
+5.  Click **START** to begin mirroring.
+
+> **Note:** For Wi-Fi mode, ensure your PC and Android device are on the same network. The app will automatically attempt to switch to TCP/IP mode.
+
+---
+
+## 💖 Credits
+Made with Love
+[t.me/sickseiha](https://t.me/sickseiha)
+
+---
+
+## 🙏 Thanks to
+
+* [Genymobile/scrcpy](https://github.com/Genymobile/scrcpy) - for the amazing mirroring engine.
+* [israel-dryer/ttkbootstrap](https://github.com/israel-dryer/ttkbootstrap) - for the modern dark theme.
