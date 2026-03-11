@@ -4,6 +4,10 @@ A modern, simple, intuitive, and standalone Windows GUI wrapper for **Scrcpy**. 
 
 ---
 
+<p align="center"><img width="627" height="627" alt="image" src="https://github.com/user-attachments/assets/eb137e74-16f8-4bb5-a12f-05e9a142c2d2" /></p>
+
+---
+
 ## ✨ Key Features
 
 * **Standalone Executable:** No need to install Python, ADB or Scrcpy itself.
