@@ -4,7 +4,7 @@ A modern, simple, intuitive, and standalone Windows GUI wrapper for **[Scrcpy](h
 
 ---
 
-<p align="center"><img width="627" height="627" alt="image" src="https://github.com/user-attachments/assets/eb137e74-16f8-4bb5-a12f-05e9a142c2d2" /></p>
+<p align="center"><img width="627" height="626" alt="Image" src="https://github.com/user-attachments/assets/76ade693-123e-4ed4-b067-70895bfdb0bd" /></p>
 
 ---
 
@@ -17,7 +17,7 @@ A modern, simple, intuitive, and standalone Windows GUI wrapper for **[Scrcpy](h
 * **Audio & Video Control:** Toggle video/audio mirroring, change bitrates, framerates, and codecs.
 * **Screen Recorder:** Record your screen sessions directly to `.mp4` or `.mkv`.
 * **App Shortcuts:** Quick launch installed third-party apps on your device.
-* **HID Support:** Enhanced Mouse, Keyboard and Gamepad controller control using HID protocols.
+* **HID Support:** Enhanced Mouse, Keyboard and Gamepad control using HID protocols.
 
 ---
 
