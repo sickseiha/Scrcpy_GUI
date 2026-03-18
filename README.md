@@ -1,4 +1,4 @@
-# Scrcpy_GUI 📱💻
+# Scrcpy GUI 📱💻
 
 A modern, simple, intuitive, and standalone Windows GUI wrapper for **[Scrcpy](https://github.com/Genymobile/scrcpy)**. This tool allows you to mirror and control your Android device with ease, featuring integrated ADB and Scrcpy binaries for a true plug-and-play experience.
 
